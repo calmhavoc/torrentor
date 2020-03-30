@@ -1,5 +1,7 @@
 #!/bin/sh
 
+
+# Don't run this as a script, it will install then remove. Need to redo these parts later.
 # TODO
 # Install openvpn, configure transmission, configure firewall to use only vpn
 # Show downloading ovpn file
